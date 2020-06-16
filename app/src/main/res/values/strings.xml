@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Calculadorapam</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="n1">Número 1</string>
+    <string name="n2">Número 2</string>
+    <string name="btn1">Soma</string>
+    <string name="btn2">Subtração</string>
+    <string name="btn3">Divisão</string>
+    <string name="btn4">Multiplicação</string>
+</resources>
